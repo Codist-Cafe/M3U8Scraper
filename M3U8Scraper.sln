@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3U8Scraper", "M3U8Scraper\M3U8Scraper.csproj", "{34F21018-C3EB-4E37-A2C1-2AABCC488394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F21018-C3EB-4E37-A2C1-2AABCC488394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F21018-C3EB-4E37-A2C1-2AABCC488394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F21018-C3EB-4E37-A2C1-2AABCC488394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F21018-C3EB-4E37-A2C1-2AABCC488394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D02143-87EE-4EAE-8440-AD70C03F6C7C}
+	EndGlobalSection
+EndGlobal
